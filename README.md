@@ -1,5 +1,5 @@
 # SNP_effect_analysis_GI
-## "chrombpnet_script.sh" run the chrombpnet model on SNP data
+### "chrombpnet_script.sh" run the chrombpnet model on SNP data
 ## "annovar.sh" to get allele frequency in other population
 "allele_freq.sh" calculate allele frequency in GI samples
 "combined_data_annovar_maf_score.ipynb" combines the annovar MAF with chrombpnet score
